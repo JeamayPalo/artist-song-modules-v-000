@@ -1,4 +1,4 @@
-module Paramable 
-  module InstanceMethods 
-    
+module Paramable
+  module InstanceMethods
+
 end 
