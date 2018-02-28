@@ -1,5 +1,5 @@
-module Memorable 
-  def self.reset_all
-    self.all.clear
+module Memorable
+  def reset_all
+    all = []
   end
 end
