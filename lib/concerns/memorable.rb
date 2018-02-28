@@ -1,6 +1,6 @@
 module Memorable
   def reset_all
-    all = []
+    self.all = []
   end
 
   def self.count
