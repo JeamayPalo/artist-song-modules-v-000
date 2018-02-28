@@ -4,4 +4,4 @@ module Findable
     self.all.find{ |a| a.name == name }
   end
 
-end 
+end
