@@ -7,5 +7,4 @@ module Memorable
     all.length
   end
 
-  
 end
