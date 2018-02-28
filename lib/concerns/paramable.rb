@@ -2,4 +2,4 @@ module Paramable
   module InstanceMethods
   end
 
-end 
+end
